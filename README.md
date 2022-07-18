@@ -1,5 +1,4 @@
 <img src="fireBack.png" style="display: block; width: 100%;">
-<img src="wiiCursorLarge.png" style="display: block; width: 25%; margin-left:auto; margin-right: auto; margin-top: -12rem">
 
 # Hot Fingers Lite
 <p> Created by ItsGreenFire</p>
