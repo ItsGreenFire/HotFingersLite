@@ -1,4 +1,3 @@
-
 <style>
     h1, h2 {
     color: orange;
@@ -7,6 +6,7 @@
     color: gold;
 }
 </style>
+
 <main>
 <img src="fireBack.png" style="display: block; width: 100%;">
 
