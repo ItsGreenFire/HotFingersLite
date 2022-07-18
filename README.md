@@ -5,7 +5,7 @@
 
 ## ToS
 <ol>
-    <li> All credits must be given to ItsGreenFire</li>  
+    <li> All credit must be given to ItsGreenFire</li>  
     <li> You may not make profit off of this</li>
     <li> If uploaded at another source, it must be free to use.</li>
 </ol>
