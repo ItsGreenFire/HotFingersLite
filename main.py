@@ -86,7 +86,7 @@ def main():
         screen.blit(headerFont.render('Hot Fingers L', False, "silver"), (6, 10))
         screen.blit(font.render('Interval', False, "silver"), (speed_input_box.x, speed_input_box.y - 25))
         screen.blit(font.render('Hot Key', False, "silver"), (hotkey_input_box.x, hotkey_input_box.y - 25))
-        screen.blit(subfont.render('V1.0', False, "silver"), (200, 3))
+        screen.blit(subfont.render('V1.1', False, "silver"), (200, 3))
         screen.blit(subfont.render('Made By ItsGreenFire', False, "silver"), (110, 195))
         screen.blit(sp_txt_surface, (speed_input_box.x + 5, speed_input_box.y + 5))
         screen.blit(hk_txt_surface, (hotkey_input_box.x + 5, hotkey_input_box.y + 5))

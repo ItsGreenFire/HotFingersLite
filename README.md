@@ -35,7 +35,8 @@
     <br>
     The toggle/hold button allows you to either toggle on the auto clicker with the hotkey, or have to hold the hotkey down while you want the auto clicker activated.
     <br>
-    Setting the power will change the speed at which the auto clicker clicks. There are three settings: "Slow", "Medium", "Fast".
+    Setting the power by scrolling or clicking on the button will change the speed at which the auto clicker clicks. There are three settings: "Slow", "Medium", "Fast".
+    <br>
     WARNING : Due to high CPU usage on "Fast", some games have a chance at crashing. Recommended for strong CPUs only.
 </p>
 
